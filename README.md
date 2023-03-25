@@ -3,6 +3,7 @@
 
 ### Description
 <img src="https://github.com/lsawfa/DEDES---2D-Game/blob/main/Assets/Bahan/INTERFACE%20GDD%20DEDES%20FIX.png?raw=true" height="400rm" align="middle">
+DEDES.apk : https://drive.google.com/file/d/1v_Fis75XkeeaWnpS8dEEV1uA2arn00gj/view?usp=share_link
 Historical and adventure themed 2D game made with Unity. This game consists of 5 levels, each level has a different adventure sensation.
 
 ### Storyline
